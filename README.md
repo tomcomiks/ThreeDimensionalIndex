@@ -37,6 +37,7 @@ The Interface class update the information on the interface over the 3D canvas.
 A demo of the application is available on the following link:
 http://www.tommelani.com/projects/threedimensionalindex/
 
+![Screenshot of the application](Capture.JPG)
 
 
 
