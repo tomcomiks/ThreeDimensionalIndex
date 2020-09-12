@@ -15,7 +15,7 @@ The application is an index in three dimensions. Il enables the user to navigate
 ### 1.2 Main Features
 
 #### 1.2.1 Controller
-The controller is the central script that manages all the interactions between the other scripts
+The controller is the central script that manages all the interactions between the other scripts.
 
 #### 1.2.2 Hierarchy
 The Hierarchy class allows to store data in a hierarchical tree.
@@ -30,7 +30,7 @@ The Camera class creates a camera with the necessary constraints in terms of ang
 The World class positions the lights, the locators, loads the assets and implements the user interactions on objects.
 
 #### 1.3.6 Interface
-The Interface class update the information on the interface over the 3D canvas.
+The Interface class updates the information on the interface over the 3D canvas.
 
 ### 1.3 Demo
 
