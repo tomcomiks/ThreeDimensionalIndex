@@ -26,10 +26,10 @@ The Dataset class populates the data with the information about the objects in t
 #### 1.2.4 Camera
 The Camera class creates a camera with the necessary constraints in terms of angles, zoom in/out and moves.
 
-### 1.2.5 World
+#### 1.2.5 World
 The World class positions the lights, the locators, loads the assets and implements the user interactions on objects.
 
-### 1.3.6 Interface
+#### 1.3.6 Interface
 The Interface class update the information on the interface over the 3D canvas.
 
 ### 1.3 Demo
